@@ -1,1 +1,0 @@
-This repository is for teaching the basics of GitHub.
